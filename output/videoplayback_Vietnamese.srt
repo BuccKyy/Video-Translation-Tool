@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:02,600
+Xin chào, tôi là Phil từ BBC Learning English.
+
+2
+00:00:02,600 --> 00:00:06,760
+Hôm nay, tôi sẽ hướng dẫn bạn cách sử dụng make và do.
+
+3
+00:00:06,760 --> 00:00:09,320
+Bây giờ chúng có thể phức tạp và có một số trường hợp ngoại lệ,
+
+4
+00:00:09,320 --> 00:00:11,800
+nhưng đây là bốn điều cần nhớ.
+
+5
+00:00:11,800 --> 00:00:15,600
+Chúng ta sử dụng "make" khi tạo ra một thứ gì đó.
+
+6
+00:00:15,600 --> 00:00:17,180
+Thích chiếc bánh này.
+
+7
+00:00:17,180 --> 00:00:20,140
+Chúng ta sử dụng "do" để nói về một hoạt động.
+
+8
+00:00:20,140 --> 00:00:21,120
+Bạn đang làm gì?
+
+9
+00:00:21,120 --> 00:00:23,560
+Tôi đang làm việc.
+
+10
+00:00:23,560 --> 00:00:26,000
+Chúng ta có thể sử dụng "make" để nói về một điều gì đó
+
+11
+00:00:26,000 --> 00:00:28,240
+làm cho xảy ra phản ứng.
+
+12
+00:00:28,240 --> 00:00:31,240
+Nhạc này thật sự khiến tôi muốn hát!
+
+13
+00:00:33,520 --> 00:00:36,680
+Chúng ta cũng có thể sử dụng "do" với các hoạt động chung.
+
+14
+00:00:37,000 --> 00:00:38,280
+Bạn sẽ làm gì vào ngày mai?
+
+15
+00:00:38,480 --> 00:00:39,640
+Tôi không làm gì cả.
+
+16
+00:00:40,480 --> 00:00:41,720
+Bạn có kế hoạch gì không?

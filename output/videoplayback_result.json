@@ -1,0 +1,10 @@
+{
+  "input": "input/videoplayback.mp4",
+  "output_video": "output/videoplayback_Vietnamese.mp4",
+  "subtitle": "output/videoplayback_Vietnamese.srt",
+  "status": "success",
+  "mode": "free",
+  "original_text": " Hi, I'm Phil from BBC Learning English. Today I'm going to tell you how to use make and do. Now they can be tricky and there are some exceptions, but here are four things to remember. We use make when we create something. Like this cake. We use do to talk about an activity. What are you doing? I'm doing some work. We can use make to talk about something that causes a reaction. This music really makes me want to sing! We can also use do with general activities. What are you doing tomorrow? I'm not doing anything. Have you got any plans?",
+  "segments": 16,
+  "translated_text": "Xin chào, tôi là Phil từ BBC Learning English. Hôm nay, tôi sẽ hướng dẫn bạn cách sử dụng make và do. Bây giờ chúng có thể phức tạp và có một số trường hợp ngoại lệ, nhưng đây là bốn điều cần nhớ. Chúng ta sử dụng \"make\" khi tạo ra một thứ gì đó. Thích chiếc bánh này. Chúng ta sử dụng \"do\" để nói về một hoạt động. Bạn đang làm gì? Tôi đang làm việc. Chúng ta có thể sử dụng \"make\" để nói về một điều gì đó làm cho xảy ra phản ứng. Nhạc này thật sự khiến tôi muốn hát! Chúng ta cũng có thể sử dụng \"do\" với các hoạt động chung. Bạn sẽ làm gì vào ngày mai? Tôi không làm gì cả. Bạn có kế hoạch gì không?"
+}

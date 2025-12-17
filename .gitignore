@@ -1,0 +1,22 @@
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+ENV/
+
+# Temp files
+output/temp/
+*.wav
+*.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
